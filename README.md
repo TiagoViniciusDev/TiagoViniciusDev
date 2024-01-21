@@ -3,7 +3,7 @@
 <br>
   <div style="display:inline">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoViniciusDev&layout=compact&theme=tokyonight&custom_title=Linguagens" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoViniciusDev&layout=compact&theme=tokyonight&custom_title=Linguagens"/>
 
   </div>
 <br>

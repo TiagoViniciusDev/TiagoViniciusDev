@@ -23,7 +23,7 @@ Minhas principais habilidades são:
 
 <br>
 
-### Habilidades e Tecnologias:
+### Habilidades e Tecnologias
 
 <div style="display:inline-block">
   

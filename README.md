@@ -15,11 +15,12 @@ Sou desenvolvedor Front-end
 Tenho 22 anos, sou apaixonado por programação. Atualmente venho desenvolvendo minhas habilidades em React JS
 
 Minhas principais habilidades são:
-- ReactJS
-- Typescript
+- HTML5
+- CSS3
 - JavaScript
-- CSS
-- HTML
+- Typescript
+- ReactJS
+- NodeJS
 
 <br>
 

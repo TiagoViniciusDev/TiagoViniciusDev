@@ -42,8 +42,9 @@ Minhas principais habilidades são:
 ##
 
 <div>
-<a href="www.linkedin.com/in/tiagoviniciusdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href = "mailto:tiagoviniciusdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-C00021?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://tiagovinicius.com/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-06D6A0?style=for-the-badge" target="_blank"></a>
+<a href="www.linkedin.com/in/tiagoviniciusdev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/tiagoviniciusdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-EF476F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:tiagoviniciusdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-C00021?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 

@@ -10,9 +10,9 @@
 
 ### Meu nome é Tiago Vinicius
 
-Sou desenvolvedor Front-end
+Sou desenvolvedor web fullstack
 
-Tenho 22 anos, sou apaixonado por programação. Atualmente venho desenvolvendo minhas habilidades em React JS
+Tenho 22 anos, sou apaixonado por programação. Uso ReactJS e NodeJS em meus projetos
 
 Minhas principais habilidades são:
 - HTML5

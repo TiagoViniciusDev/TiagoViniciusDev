@@ -10,7 +10,7 @@
 
 ### Meu nome é Tiago Vinicius
 
-Sou desenvolvedor web fullstack
+Sou um desenvolvedor web fullstack
 
 Tenho 22 anos, sou apaixonado por programação. Uso ReactJS e NodeJS em meus projetos
 

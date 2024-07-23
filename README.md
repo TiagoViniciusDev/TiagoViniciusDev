@@ -12,7 +12,7 @@
 
 Sou um desenvolvedor web fullstack
 
-Tenho 22 anos, sou apaixonado por programação. Uso ReactJS e NodeJS em meus projetos
+Tenho 23 anos, sou apaixonado por programação. Uso ReactJS e NodeJS em meus projetos
 
 Minhas principais habilidades são:
 - HTML5

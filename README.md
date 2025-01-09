@@ -1,8 +1,6 @@
 ### Oi! Meu nome é Tiago Vinicius
 
-Sou um desenvolvedor fullstack
-
-Tenho 23 anos, sou apaixonado por programação. Uso ReactJS e NodeJS em meus projetos
+Sou um desenvolvedor fullstack apaixonado por programação
 
 <br>
   <div style="display:inline">
@@ -33,8 +31,8 @@ Tenho 23 anos, sou apaixonado por programação. Uso ReactJS e NodeJS em meus pr
 ##
 
 <div>
-<a href="https://tiagovinicius.com/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-06D6A0?style=for-the-badge" target="_blank"></a>
-<a href="https://www.linkedin.com/in/tiagoviniciusdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:tiagoviniciusdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-C00021?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://tiagovinicius.com/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/-Portfólio-06D6A0?style=for-the-badge"></a>
+<a href="https://www.linkedin.com/in/tiagoviniciusdev/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "mailto:tiagoviniciusdev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-C00021?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
